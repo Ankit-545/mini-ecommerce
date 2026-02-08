@@ -1,4 +1,3 @@
-
 ```md
 # Full Stack Assignment
 
@@ -98,9 +97,7 @@ Frontend runs on:
 
 ## 🐳 Docker Setup (Recommended)
 
-### Build and Run Containers
-
-From the project root directory:
+From the project root:
 
 ```bash
 docker-compose up --build
@@ -138,3 +135,8 @@ POST /api/cart
 * Proper HTTP status codes and messages
 
 ---
+
+## 👤 Author
+
+Ankit Chaurasia
+
